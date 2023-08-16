@@ -2,7 +2,7 @@
  var firebaseConfig = {
   apiKey: "AIzaSyDomK_Yo8JRm18pt8PQSON81ztXPcgtWCE",
   authDomain: "formdatabase-65d2f.firebaseapp.com",
-  databaseURL: "https://formdatabase-65d2f-default-rtdb.firebaseio.com",
+  databaseURL: "https://swastikrawat11.github.io/form-comments/",
   projectId: "formdatabase-65d2f",
   storageBucket: "formdatabase-65d2f.appspot.com",
   messagingSenderId: "649133372490",
