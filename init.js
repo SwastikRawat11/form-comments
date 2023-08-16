@@ -1,12 +1,13 @@
 (function () {
  var firebaseConfig = {
-    apiKey: "AIzaSyCKwFLepahWW7o2KzulELn0Adsi6C60UiA",
-    authDomain: "feedbackform-9df57.firebaseapp.com",
-    projectId: "feedbackform-9df57",
-    storageBucket: "feedbackform-9df57.appspot.com",
-    messagingSenderId: "681922973908",
-    appId: "1:681922973908:web:b9be4c6e128aaa5885ab41",
-    measurementId: "G-23J6PQCFTF"
-};
+    apiKey: "AIzaSyDomK_Yo8JRm18pt8PQSON81ztXPcgtWCE",
+    authDomain: "formdatabase-65d2f.firebaseapp.com",
+    databaseURL: "https://formdatabase-65d2f-default-rtdb.firebaseio.com",
+    projectId: "formdatabase-65d2f",
+    storageBucket: "formdatabase-65d2f.appspot.com",
+    messagingSenderId: "649133372490",
+    appId: "1:649133372490:web:55d93e6f86124f6d2c22b3",
+    measurementId: "G-1CYF7G1Q35"
+  };
     firebase.initializeApp(firebaseConfig);
 }());
