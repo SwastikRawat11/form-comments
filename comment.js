@@ -1,6 +1,6 @@
 (function () {
-    var username = $('#fname');
-    var email = $('#name');
+    var username = $('#gname');
+    var email = $('#lname');
     var comment = $('#comment');
     var timestamp = Date.now();
     const dbRoot = firebase.database();
